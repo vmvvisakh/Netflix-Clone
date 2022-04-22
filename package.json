@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "axios": "^0.26.0",
+    "fs": "^0.0.1-security",
+    "react-youtube": "^7.14.0"
+  }
+}
